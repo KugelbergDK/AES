@@ -9,6 +9,8 @@ import java.util.Base64;
 
 public class AES {
 
+    // TODO: Add methods for file encryption
+
     private SecretKeySpec secretKey;
     private byte[] key;
 
